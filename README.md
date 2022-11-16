@@ -5,7 +5,7 @@ Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
  PNT2022TMID34131
 
 # Team Leader's Name:
-  Dharshnine R S
+  Dharshine R S
 
 # Team Members Name:
 1. Hassim Arsha S
